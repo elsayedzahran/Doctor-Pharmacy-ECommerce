@@ -1,0 +1,15 @@
+# ASP.NET 6 specific
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.deps.json
+*.runtimeconfig.json
+
+# Visual Studio Code specific
+.vscode/
+
+# Other files and directories to ignore
+# Add any additional files or directories to ignore
